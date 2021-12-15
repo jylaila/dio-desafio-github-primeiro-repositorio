@@ -1,1 +1,3 @@
-primeiro arquivo
+Eduzz Lab
+Introdução do Git - Git Hub
+Criação do repositório
